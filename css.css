@@ -1,0 +1,23 @@
+.rojo{
+    padding:10rem;
+    width:10rem;
+    background-color: red;
+    display:inline-block;
+    margin: 1rem;
+}
+
+.amarillo{
+    padding: 10rem;
+    width:10rem;
+    background-color: yellow;
+    display:inline-block;
+    margin: 1rem;
+}
+
+.verde{
+    padding:10rem;
+    width: 10rem;
+    background-color: green;
+    display:inline-block;
+    margin: 1rem;
+}
